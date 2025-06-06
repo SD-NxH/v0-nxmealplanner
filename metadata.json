@@ -1,0 +1,6 @@
+{
+  "name": "NxMeal Planner",
+  "description": "A web application to generate personalized meal plans and grocery lists using AI. Users can specify dietary restrictions, preferred cuisines, number of days, and types of meals.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
